@@ -1,4 +1,5 @@
 # Gossip
+A Distributed System Gossip Program
 
 This project is a Distributed System Gossip program that runs on the command line. It can be started without any other servers to connect to, or up to two
 ip addresses and ports to connect with upon starting up. Using leaderless replication, this program will communicate with other servers running this program
